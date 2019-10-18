@@ -8,7 +8,7 @@
 // '9' * '9'
 // Divide a number by a string
 // 12 / "6"
-//Add a string to two numbers
+//Add a string to two numbers`
 // 15 + 3 + "number"
 // Unexpected results can happen
 // ("b" + "a" + + + "a") + "a"
