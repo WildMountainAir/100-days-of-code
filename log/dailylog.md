@@ -29,3 +29,6 @@ I worked on function exercises.
 Work has been mentally taxing and it's been difficult to remember what I learned reflecting on the previous day. 
 
 **Link to work:** 
+
+
+Hi I made a change!
