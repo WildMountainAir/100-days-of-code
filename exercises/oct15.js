@@ -111,17 +111,3 @@ function calculateTip ( total, percentage ) {
   }
   calculateTip( 50, .15 );
   //things I need: total & percentage
-  
-  
-  
-  
-  
-  
-  
-  
-  // Today I learned about types, variables, operators and functions in JavaScript at a @GalvanizeBLDR #LearntoCode tonight!
-  
-  // // It was
-  // ("b" + "a" + + + "a") + "a" + "s";
-  
-  https://github.com/bentleybuilds/workShop/tree/master/javascript101
