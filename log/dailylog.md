@@ -40,7 +40,7 @@ Today I signed up for Codecademy Pro and started on the Web Development track! I
 **Thoughts:** 
 It felt good to cover the basics of HTML. I had fun building a webpage and reinforcing what I learned. As I progress I hope to update projects and reiterate on them the more I progress. Today felt great!
 
-**Link to work:** 
+**Link to work:** [Fashion Blog](https://github.com/WildMountainAir/100-days-of-code/blob/master/practice-projects/fashionblog/fashionblogpp.html)
 
 
 <!---
