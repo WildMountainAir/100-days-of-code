@@ -1,3 +1,11 @@
+#Ali's Resources#
+These are some of the resources I have gathered through my learning on Codecademy, at Hack Reactor Learn to Codes, and through friend's suggestions.
+
+### Links
+1. [All Element Tags] (https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+2. [Table Cheat Sheet] (https://www.codecademy.com/learn/learn-html/modules/learn-html-tables/reference)
+
+
 # Primary Resources on the #100DaysOfCode
 
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
