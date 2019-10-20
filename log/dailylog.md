@@ -42,9 +42,18 @@ It felt good to cover the basics of HTML. I had fun building a webpage and reinf
 
 **Link to work:** [Fashion Blog](https://github.com/WildMountainAir/100-days-of-code/blob/master/practice-projects/fashionblog/fashionblogpp.html)
 
+### Day 6: Day, October 20, 2019
+
+**Today's Progress** 
+
+
+**Thoughts:** 
+
+
+**Link to work:** 
 
 <!---
-  ### Day Num: Day, October 00, 2019
+### Day Num: Day, October 00, 2019
 
 **Today's Progress** 
 
