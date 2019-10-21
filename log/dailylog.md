@@ -45,10 +45,10 @@ It felt good to cover the basics of HTML. I had fun building a webpage and reinf
 ### Day 6: Day, October 20, 2019
 
 **Today's Progress** 
-
+Today I worked on my own project which was really fun. I worked through creating tables in HTML and started on forms. 
 
 **Thoughts:** 
-
+It was exciting to get started on my own project. I am looking forward to building something that I could potentially make money off of down the road. 
 
 **Link to work:** 
 
