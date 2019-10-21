@@ -50,7 +50,7 @@ Today I worked on my own project which was really fun. I worked through creating
 **Thoughts:** 
 It was exciting to get started on my own project. I am looking forward to building something that I could potentially make money off of down the road. 
 
-**Link to work:** 
+**Link to work:** [Table Play](https://github.com/WildMountainAir/100-days-of-code/blob/master/practice-projects/tablespp/winefestpp.html)
 
 <!---
 ### Day Num: Day, October 00, 2019
