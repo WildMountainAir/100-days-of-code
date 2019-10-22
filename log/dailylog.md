@@ -52,6 +52,14 @@ It was exciting to get started on my own project. I am looking forward to buildi
 
 **Link to work:** [Table Play](https://github.com/WildMountainAir/100-days-of-code/blob/master/practice-projects/tablespp/winefestpp.html)
 
+### Day 7: Monday, October 21, 2019
+
+**Today's Progress** 
+I didn't make progress on Codecademy today but I did work on my personal project. Next, I want to build a form so people can submit ideas or feedback. 
+
+**Thoughts:** 
+It is exciting to progress and actually see how much I have learned in a mere week! 
+
 <!---
 ### Day Num: Day, October 00, 2019
 
