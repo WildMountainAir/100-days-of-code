@@ -60,14 +60,15 @@ I didn't make progress on Codecademy today but I did work on my personal project
 **Thoughts:** 
 It is exciting to progress and actually see how much I have learned in a mere week! 
 
-### Day Num: Day, October 00, 2019
+### Day 8: Tuesday, October 22, 2019
 
 **Today's Progress** 
+I was feeling real sick today but I am glad I pushed through and just hopped on Codecademy. I worked on forms today and was able to add one to my personal project!
 
 **Thoughts:** 
+It feels good to make progress on my project and within Codecademy. I wish I could code all day long and dedicate a lot more time. 
 
-
-**Link to work:** 
+**Link to work:** [Order Form] (https://github.com/WildMountainAir/100-days-of-code/blob/master/practice-projects/orderformpp/orderformpp.html)
 
 <!---
 ### Day Num: Day, October 00, 2019
