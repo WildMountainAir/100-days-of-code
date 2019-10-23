@@ -60,6 +60,15 @@ I didn't make progress on Codecademy today but I did work on my personal project
 **Thoughts:** 
 It is exciting to progress and actually see how much I have learned in a mere week! 
 
+### Day Num: Day, October 00, 2019
+
+**Today's Progress** 
+
+**Thoughts:** 
+
+
+**Link to work:** 
+
 <!---
 ### Day Num: Day, October 00, 2019
 
