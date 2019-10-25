@@ -68,7 +68,7 @@ I was feeling real sick today but I am glad I pushed through and just hopped on 
 **Thoughts:** 
 It feels good to make progress on my project and within Codecademy. I wish I could code all day long and dedicate a lot more time. 
 
-**Link to work:** [Order Form] (https://github.com/WildMountainAir/100-days-of-code/blob/master/practice-projects/orderformpp/orderformpp.html)
+**Link to work:** [Order Form](https://github.com/WildMountainAir/100-days-of-code/blob/master/practice-projects/orderformpp/orderformpp.html)
 
 <!---
 ### Day Num: Day, October 00, 2019
