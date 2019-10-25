@@ -70,6 +70,25 @@ It feels good to make progress on my project and within Codecademy. I wish I cou
 
 **Link to work:** [Order Form](https://github.com/WildMountainAir/100-days-of-code/blob/master/practice-projects/orderformpp/orderformpp.html)
 
+### Off for 2 Days: Wednesday, October 23, 2019 & Thursday, October 24, 2019
+
+**Today's Progress** 
+I did not make progress for 2 days. I needed to focus on my heath so I can then focus on my code. 
+
+**Thoughts:** 
+I am really greatful to have encourgaing friends through this journey. I am also excited to see how amazing the tech community is. 
+
+### Day 9: Friday, October 25, 2019
+
+**Today's Progress** 
+<!-- Working through the final HTML & CSS unit on Codecademy. Forms. -->
+
+**Thoughts:** 
+<!-- -->
+
+**Link to work:** 
+
+
 <!---
 ### Day Num: Day, October 00, 2019
 
