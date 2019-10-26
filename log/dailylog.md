@@ -86,7 +86,7 @@ Working through the final HTML & CSS units on Codecademy. I finished with Form V
 **Thoughts:** 
 I wish I wasn't at the airport trying to learn. 
 
-**Link to work:** [FormValidation] (https://github.com/WildMountainAir/100-days-of-code/blob/master/practice-projects/formvalidationpp/formvalidationapp.html)
+**Link to work:** [FormValidation](https://github.com/WildMountainAir/100-days-of-code/blob/master/practice-projects/formvalidationpp/formvalidationapp.html)
 
 
 <!---
