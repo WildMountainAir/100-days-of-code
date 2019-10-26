@@ -81,12 +81,12 @@ I am really greatful to have encourgaing friends through this journey. I am also
 ### Day 9: Friday, October 25, 2019
 
 **Today's Progress** 
-Working through the final HTML & CSS unit on Codecademy. Form Validation.
+Working through the final HTML & CSS units on Codecademy. I finished with Form Validation.
 
 **Thoughts:** 
-<!-- -->
+I wish I wasn't at the airport trying to learn. 
 
-**Link to work:** 
+**Link to work:** [FormValidation] (https://github.com/WildMountainAir/100-days-of-code/blob/master/practice-projects/formvalidationpp/formvalidationapp.html)
 
 
 <!---
