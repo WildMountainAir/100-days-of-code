@@ -81,7 +81,7 @@ I am really greatful to have encourgaing friends through this journey. I am also
 ### Day 9: Friday, October 25, 2019
 
 **Today's Progress** 
-<!-- Working through the final HTML & CSS unit on Codecademy. Forms. -->
+Working through the final HTML & CSS unit on Codecademy. Form Validation.
 
 **Thoughts:** 
 <!-- -->
