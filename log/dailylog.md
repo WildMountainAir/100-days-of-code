@@ -88,11 +88,23 @@ I wish I wasn't at the airport trying to learn.
 
 **Link to work:** [FormValidation](https://github.com/WildMountainAir/100-days-of-code/blob/master/practice-projects/formvalidationpp/formvalidationapp.html)
 
+### I needed to take time off to focus on my health. Being a good software engineer isn't just about knowing how to write code, it's also about knowing when to step back. All I have thought about is getting back into the swing of things. I am excited to begin again. 
+
+### Day 10: Tuesday, November 5, 2019
+
+**Today's Progress** 
+I created a form where you can tell toggle words to fill in a story. I learned about semantic and non-semantic HTML and created an accessible webpage.
+
+**Thoughts:** 
+
+
+**Link to work:** [AccesssiblePage](), 
 
 <!---
 ### Day Num: Day, October 00, 2019
 
 **Today's Progress** 
+
 
 **Thoughts:** 
 
