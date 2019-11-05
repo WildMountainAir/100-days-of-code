@@ -6,6 +6,7 @@ These are some of the resources I have gathered through my learning on Codecadem
 2. [TableCheatSheet] (https://www.codecademy.com/learn/learn-html/modules/learn-html-tables/reference)
 3. [FormsCheatSheet] (https://www.codecademy.com/learn/learn-html/modules/learn-html-forms/reference)
 4. [MDNRegex](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+5. [PatternAttributes] (https://www.w3schools.com/tags/att_pattern.asp)
 
 # Primary Resources on the #100DaysOfCode
 
