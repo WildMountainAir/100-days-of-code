@@ -93,12 +93,12 @@ I wish I wasn't at the airport trying to learn.
 ### Day 10: Tuesday, November 5, 2019
 
 **Today's Progress** 
-I created a form where you can tell toggle words to fill in a story. I learned about semantic and non-semantic HTML and created an accessible webpage.
+I finished up the HTML and CSS lessons in Codecademy and start on JavaScript tomorrow.
 
 **Thoughts:** 
+I got through so much content and created a handful of projects. It feels good to be coding again and progressing. I am really happy with how far I made it today. 
 
-
-**Link to work:** [StoryForm] (), [AccesssiblePage](), [NYCBlog] (), [SoccerBlog] (), [Recipe] (), [PracticePortfolio] ()
+**Link to work:** [StoryForm] (https://github.com/WildMountainAir/100-days-of-code/tree/master/practice-projects/storyformpp), [AccesssiblePage](), [NYCBlog] (https://github.com/WildMountainAir/100-days-of-code/tree/master/practice-projects/minipps/nycblogpp), [SoccerBlog] (https://github.com/WildMountainAir/100-days-of-code/tree/master/practice-projects/minipps/soccerblogpp), [Recipes] (https://github.com/WildMountainAir/100-days-of-code/tree/master/practice-projects/minipps/healthyrecipespp), [ArtsShop] (https://github.com/WildMountainAir/100-days-of-code/tree/master/practice-projects/dasmotopp)
 
 <!---
 ### Day Num: Day, October 00, 2019
