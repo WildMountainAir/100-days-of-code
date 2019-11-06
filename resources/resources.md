@@ -1,15 +1,15 @@
-#Ali's Resources#
+# Ali's Resources
 These are some of the resources I have gathered through my learning on Codecademy, at Hack Reactor Learn to Codes, and through friend's suggestions.
 
-### Links
-1. [AllElementTags] (https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-2. [TableCheatSheet] (https://www.codecademy.com/learn/learn-html/modules/learn-html-tables/reference)
-3. [FormsCheatSheet] (https://www.codecademy.com/learn/learn-html/modules/learn-html-forms/reference)
-4. [MDNRegex](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
-5. [PatternAttributes] (https://www.w3schools.com/tags/att_pattern.asp)
-6. [CSSFonts] (http://www.cssfontstack.com)
+## Links
+1. <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">All Element Tags</a>
+2. <a href="https://www.codecademy.com/learn/learn-html/modules/learn-html-tables/reference">Table Cheat Sheet</a>
+3. <a href="https://www.codecademy.com/learn/learn-html/modules/learn-html-forms/reference">Forms Cheat Sheet</a>
+4. <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions">MDN Regex </a>
+5. <a href="https://www.w3schools.com/tags/att_pattern.asp">Pattern Attributes</a>
+6. <a href="http://www.cssfontstack.com">CSS Fonts</a>
 
-# Primary Resources on the #100DaysOfCode
+# #100DaysOfCode Resources
 
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
