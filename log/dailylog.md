@@ -98,7 +98,7 @@ I created a form where you can tell toggle words to fill in a story. I learned a
 **Thoughts:** 
 
 
-**Link to work:** [AccesssiblePage](), 
+**Link to work:** [StoryForm] (), [AccesssiblePage](), [NYCBlog] (), [SoccerBlog] (), [Recipe] (), [PracticePortfolio] ()
 
 <!---
 ### Day Num: Day, October 00, 2019
