@@ -1,0 +1,44 @@
+body {
+    /* Old browsers */
+    background: rgb(20, 48, 34);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(-45deg, #35577D, rgb(20, 48, 34));
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(-45deg, #35577D, rgb(20, 48, 34));
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: cornflowerblue;
+    font-size: 2em;
+    padding-top: 150px;
+    width: 100%;
+    text-align: center;
+}
+h2 {
+    color: paleturquoise;
+    font-size: 1.5em;
+}
+h3 {
+    color: thistle;
+    font-size: 1em;
+    width: 60%;
+}
+p {
+    color: mediumaquamarine;
+    line-height: 1.2em;
+    text-align: left;
+    width: 100%;
+}
+.header-image {
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
+.content {
+    padding: 40px;
+}
+.container {
+    padding: 40px;
+}
