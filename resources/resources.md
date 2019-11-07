@@ -2,12 +2,17 @@
 These are some of the resources I have gathered through my learning on Codecademy, at Hack Reactor Learn to Codes, and through friend's suggestions.
 
 ## Links
-1. <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">All Element Tags</a>
-2. <a href="https://www.codecademy.com/learn/learn-html/modules/learn-html-tables/reference">Table Cheat Sheet</a>
-3. <a href="https://www.codecademy.com/learn/learn-html/modules/learn-html-forms/reference">Forms Cheat Sheet</a>
-4. <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions">MDN Regex </a>
-5. <a href="https://www.w3schools.com/tags/att_pattern.asp">Pattern Attributes</a>
-6. <a href="http://www.cssfontstack.com">CSS Fonts</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">All Element Tags</a>
+* <a href="https://www.codecademy.com/learn/learn-html/modules/learn-html-tables/reference">Table Cheat Sheet</a>
+* <a href="https://www.codecademy.com/learn/learn-html/modules/learn-html-forms/reference">Forms Cheat Sheet</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions">MDN Regex </a>
+* <a href="https://www.w3schools.com/tags/att_pattern.asp">Pattern Attributes</a>
+* <a href="http://www.cssfontstack.com">CSS Fonts</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/prototype">String Documentation</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects">Standard Built in Objects</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math">Math.objects</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number">Number.objects</a>
+* <a href="https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/reference">JavaScript Intro Reference Sheet</a>
 
 # #100DaysOfCode Resources
 
