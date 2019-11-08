@@ -13,7 +13,13 @@ These are some of the resources I have gathered through my learning on Codecadem
 * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math">Math.objects</a>
 * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number">Number.objects</a>
 * <a href="https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/reference">JavaScript Intro Reference Sheet</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var">Statements and Declarations</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords">ES6 Keywords</a>
 
+## Videos
+* <a href="https://www.youtube.com/watch?v=aMzAjQ4uUag">How to remember everything you're learning</a>
+
+#
 # #100DaysOfCode Resources
 
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
