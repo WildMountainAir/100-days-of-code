@@ -1,4 +1,5 @@
 # <em>**100 Days Of Code - Log**</em>
+<!-- Tweet --->
 <center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tuesday is here and today after work I am starting <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/LetsGo?src=hash&amp;ref_src=twsrc%5Etfw">#LetsGo</a> <a href="https://t.co/KxXAa5jtUK">pic.twitter.com/KxXAa5jtUK</a></p>&mdash; Ali Sipos 🥑 (@AlisonJoyce) <a href="https://twitter.com/AlisonJoyce/status/1184106972947157001?ref_src=twsrc%5Etfw">October 15, 2019</a></blockquote> </center>
 
 ### **Day 1: Tuesday, October 15, 2019**
@@ -111,8 +112,6 @@ I finished up the HTML and CSS lessons in Codecademy and start on JavaScript tom
 I got through so much content and created a handful of projects. It feels good to be coding again and progressing. I am really happy with how far I made it today. 
 
 **Links to work:** [Story Form](https://github.com/WildMountainAir/100-days-of-code/tree/master/practice-projects/storyformpp), [NYC Blog](https://github.com/WildMountainAir/100-days-of-code/tree/master/practice-projects/minipps/nycblogpp), [Soccer Blog](https://github.com/WildMountainAir/100-days-of-code/tree/master/practice-projects/minipps/soccerblogpp), [Recipes](https://github.com/WildMountainAir/100-days-of-code/tree/master/practice-projects/minipps/healthyrecipespp), [Art Shop](https://github.com/WildMountainAir/100-days-of-code/tree/master/practice-projects/dasmotopp),
-<!-- Tweet --->
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I had to take some time away from <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> to focus on my health. Today I jumped right in and completed the HTML &amp; CSS lessons on <a href="https://twitter.com/Codecademy?ref_src=twsrc%5Etfw">@Codecademy</a> &amp;&amp; I am excited to dive into JavaScript tomorrow! <a href="https://twitter.com/hashtag/WomenWhoCode?src=hash&amp;ref_src=twsrc%5Etfw">#WomenWhoCode</a> <a href="https://twitter.com/hashtag/WomenInTech?src=hash&amp;ref_src=twsrc%5Etfw">#WomenInTech</a> <a href="https://twitter.com/hashtag/AddCommitPush?src=hash&amp;ref_src=twsrc%5Etfw">#AddCommitPush</a> <a href="https://t.co/UiDSWj39HW">pic.twitter.com/UiDSWj39HW</a></p>&mdash; Ali Sipos 🥑 (@AlisonJoyce) <a href="https://twitter.com/AlisonJoyce/status/1191894275987894272?ref_src=twsrc%5Etfw">November 6, 2019</a></blockquote> 
 
 ### **Day 11: Wednesday, November 6, 2019**
 
@@ -123,8 +122,10 @@ I worked on learning more about the GitHub Markdown language and made my log and
 I am pretty excited about learning JavaScript and amplifying my projects. Alson, I am absolutley loving Codecademy. I am all about the badges and gamification, it's awesome being able to see my progress. <em>Idea: Codecademy should connect to LinkedIn like DuoLingo.</em>
 
 **Link to work:** [Resources](https://github.com/WildMountainAir/100-days-of-code/blob/master/resources/resources.md)
+<!-- Tweet --->
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I had to take some time away from <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> to focus on my health. Today I jumped right in and completed the HTML &amp; CSS lessons on <a href="https://twitter.com/Codecademy?ref_src=twsrc%5Etfw">@Codecademy</a> &amp;&amp; I am excited to dive into JavaScript tomorrow! <a href="https://twitter.com/hashtag/WomenWhoCode?src=hash&amp;ref_src=twsrc%5Etfw">#WomenWhoCode</a> <a href="https://twitter.com/hashtag/WomenInTech?src=hash&amp;ref_src=twsrc%5Etfw">#WomenInTech</a> <a href="https://twitter.com/hashtag/AddCommitPush?src=hash&amp;ref_src=twsrc%5Etfw">#AddCommitPush</a> <a href="https://t.co/UiDSWj39HW">pic.twitter.com/UiDSWj39HW</a></p>&mdash; Ali Sipos 🥑 (@AlisonJoyce) <a href="https://twitter.com/AlisonJoyce/status/1191894275987894272?ref_src=twsrc%5Etfw">November 6, 2019</a></blockquote> 
 
-### **Day 12: Wednesday, November 7, 2019**
+### **Day 12: Thursday, November 7, 2019**
 
 **Today's Progress:** 
 I learned about some of the differences between ES6 and pre-ES6 JavaScript. 
@@ -133,19 +134,28 @@ I learned about some of the differences between ES6 and pre-ES6 JavaScript.
 Today was a really long and tough day at work, the thought of coing afterwards was the only thing that got me through it. I am really glad I found something I enjoy. I read a quote last night that said, "To find your purpose, help others find theirs." I feel like that couldn't be more fitting. 
 
 **Link to work:** [Math Operators](https://github.com/WildMountainAir/100-days-of-code/blob/master/exercises/mathOperators.js), [Kalvin Conversions](https://github.com/WildMountainAir/100-days-of-code/blob/master/exercises/kelvinconvert.js), [Dog Years](https://github.com/WildMountainAir/100-days-of-code/blob/master/exercises/dogyears.js)  
+<!-- Tweet --->
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 12: I looked forward to coding all day! I’m glad I was able to squeeze in a few hours before getting too tired 👩‍💻 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/codenewbie?src=hash&amp;ref_src=twsrc%5Etfw">#codenewbie</a> <a href="https://twitter.com/hashtag/javascript?src=hash&amp;ref_src=twsrc%5Etfw">#javascript</a> <a href="https://t.co/QDdPRIlSIu">pic.twitter.com/QDdPRIlSIu</a></p>&mdash; Ali Sipos 🥑 (@AlisonJoyce) <a href="https://twitter.com/AlisonJoyce/status/1192696146864402432?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote> 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 12: I looked forward to coding all day! I’m glad I was able to squeeze in a few hours before getting too tired 👩‍💻 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/codenewbie?src=hash&amp;ref_src=twsrc%5Etfw">#codenewbie</a> <a href="https://twitter.com/hashtag/javascript?src=hash&amp;ref_src=twsrc%5Etfw">#javascript</a> <a href="https://t.co/QDdPRIlSIu">pic.twitter.com/QDdPRIlSIu</a></p>&mdash; Ali Sipos 🥑 (@AlisonJoyce) <a href="https://twitter.com/AlisonJoyce/status/1192696146864402432?ref_src=twsrc%5Etfw">November 8, 2019</a></blockquote> 
-
-### **Day Num: Day, November 00, 2019**
+### **Day 13: Friday, November 8, 2019**
 
 **Today's Progress:** 
 I created form logic today for a quiz for work. An engineer ended up taking my project over but I plan on continuing to work on them and build it out more robust. I also started working on conditionals.
 
 **Thoughts:** 
 I am looking forward to spending a good chunk of time coding this weekend!
+<!-- Tweet --->
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I worked really hard on my 1st coding project *for work* today, just to have it taken over by someone else... I’m proud I took the leap into creating a project without specs from the ground up for something customer facing. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/nul9HwreWo">pic.twitter.com/nul9HwreWo</a></p>&mdash; Ali Sipos 🥑 (@AlisonJoyce) <a href="https://twitter.com/AlisonJoyce/status/1192955003750608897?ref_src=twsrc%5Etfw">November 8, 2019</a></blockquote> 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I worked really hard on my 1st coding project *for work* today, just to have it taken over by someone else... I’m proud I took the leap into creating a project without specs from the ground up for something customer facing. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/nul9HwreWo">pic.twitter.com/nul9HwreWo</a></p>&mdash; Ali Sipos 🥑 (@AlisonJoyce) <a href="https://twitter.com/AlisonJoyce/status/1192955003750608897?ref_src=twsrc%5Etfw">November 9, 2019</a></blockquote> 
+### **Day 14: Saturday, November 9, 2019**
 
+**Today's Progress:** 
+
+
+**Thoughts:** 
+
+
+**Link to work:** [Placeholder](https://github.com/WildMountainAir/100-days-of-code/tree/master/practice-projects/)
 <!---
 ### **Day Num: Day, November 00, 2019**
 
@@ -155,8 +165,8 @@ I am looking forward to spending a good chunk of time coding this weekend!
 **Thoughts:** 
 
 
-**Link to work:** [Story Form](https://github.com/WildMountainAir/100-days-of-code/tree/master/practice-projects/storyformpp)
+**Link to work:** [Place Holder](https://github.com/WildMountainAir/100-days-of-code/tree/master/practice-projects/)
 
-!! Paste Tweet Embed link Here
+!! TWEET
 #
 --->
