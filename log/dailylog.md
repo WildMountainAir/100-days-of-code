@@ -136,6 +136,16 @@ Today was a really long and tough day at work, the thought of coing afterwards w
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 12: I looked forward to coding all day! I’m glad I was able to squeeze in a few hours before getting too tired 👩‍💻 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/codenewbie?src=hash&amp;ref_src=twsrc%5Etfw">#codenewbie</a> <a href="https://twitter.com/hashtag/javascript?src=hash&amp;ref_src=twsrc%5Etfw">#javascript</a> <a href="https://t.co/QDdPRIlSIu">pic.twitter.com/QDdPRIlSIu</a></p>&mdash; Ali Sipos 🥑 (@AlisonJoyce) <a href="https://twitter.com/AlisonJoyce/status/1192696146864402432?ref_src=twsrc%5Etfw">November 8, 2019</a></blockquote> 
 
+### **Day Num: Day, November 00, 2019**
+
+**Today's Progress:** 
+I created form logic today for a quiz for work. An engineer ended up taking my project over but I plan on continuing to work on them and build it out more robust. I also started working on conditionals.
+
+**Thoughts:** 
+I am looking forward to spending a good chunk of time coding this weekend!
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I worked really hard on my 1st coding project *for work* today, just to have it taken over by someone else... I’m proud I took the leap into creating a project without specs from the ground up for something customer facing. <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://t.co/nul9HwreWo">pic.twitter.com/nul9HwreWo</a></p>&mdash; Ali Sipos 🥑 (@AlisonJoyce) <a href="https://twitter.com/AlisonJoyce/status/1192955003750608897?ref_src=twsrc%5Etfw">November 9, 2019</a></blockquote> 
+
 <!---
 ### **Day Num: Day, November 00, 2019**
 
